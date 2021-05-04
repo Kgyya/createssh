@@ -17,7 +17,7 @@ python3 main.py
 ![IMG](https://github.com/Kgyya/createssh/blob/main/ssatu.jpg)
 ![IMG2](https://github.com/Kgyya/createssh/blob/main/ssdua.jpg)
 
-### Follow:
+### Follow/Fork Bang, Bikinnya Susah:'v
 <p align="left">
   <a href="https://github.com/Kgyya" target="_blank"><img src="https://img.shields.io/badge/Github-Kgyya-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/kgyya_" target="_blank"><img src="https://img.shields.io/badge/IG-%40kgyya_-red?style=for-the-badge&logo=instagram"></a>
