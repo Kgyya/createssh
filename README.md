@@ -14,8 +14,8 @@ cd createssh
 python3 main.py
 ```
 ### Screenshot:
-![IMG](https://github.com/Kgyya/createssh/blob/main/ssatu.JPG)
-![IMG2](https://github.com/Kgyya/createssh/blob/main/ssdua.JPG)
+![IMG](https://github.com/Kgyya/createssh/blob/main/ssatu.jpg)
+![IMG2](https://github.com/Kgyya/createssh/blob/main/ssdua.jpg)
 
 ### Follow:
 <p align="left">
