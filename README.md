@@ -1,6 +1,12 @@
 ![Python|3.x.x](https://img.shields.io/badge/Python-3.x.x-blue.svg)
 ![Open|Source](https://img.shields.io/badge/Open-Source-red.svg)
 # CreateSSH readyssh.net
+### Feature:
++ Support SSL (OpenSSH & Dropbear)
++ Support Squid Proxy
++ Support Squid Proxy + SSL
++ Expired 10D - 3D
++ Fullspeed
 ### Instalation:
 ```
 apt update && apt upgrade
